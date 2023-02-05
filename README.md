@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- [Check my code on Codepen]()
+- Check my code on [Codepen](https://codepen.io/neew20/pen/xxJBpwZ).
 - [Live demo of the product preview card]()
 
 ## My process
