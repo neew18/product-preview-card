@@ -25,12 +25,15 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-
+#### Mobile View
+![product-card-mobile](https://user-images.githubusercontent.com/98087868/216841944-3ebef0c9-55f3-4c55-8691-28662136801d.PNG)
+#### Desktop View (Device width 1440px and above)
+![product-card-web (2)](https://user-images.githubusercontent.com/98087868/216841947-10042d63-ed87-4dea-9764-9b0070fb38e2.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Check my code on Codepen]()
+- [Live demo of the product preview card]()
 
 ## My process
 
