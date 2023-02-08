@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Check my code on [Codepen](https://codepen.io/neew20/pen/xxJBpwZ).
-- [Live demo of the product preview card]()
+- Live [demo](https://product-preview-card-daurq3lzr-neew18.vercel.app/) of the product preview card.
 
 ## My process
 
